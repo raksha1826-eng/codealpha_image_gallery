@@ -1,1 +1,0 @@
-# codealpha_image_gallery
